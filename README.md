@@ -1,0 +1,1 @@
+Welcome to an intuitive website that allows you to generate QR codes for your favorite links or social profiles completely free of charge. This platform has been developed using exclusively vanilla JavaScript, ensuring a simple and effective experience.
