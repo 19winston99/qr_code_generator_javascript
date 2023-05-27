@@ -1,6 +1,7 @@
+
 "use strict";
 
-function generateQrCode() {
+function generateQRCodeFromUrl() {
     let image = document.querySelector("img");
     let textValue = document.querySelector("input").value;
     if (textValue) {
